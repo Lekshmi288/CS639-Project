@@ -1,3 +1,5 @@
+Project title: Bayesian vs Frequentist Approach in Medical Research
+
 Project partner: Harsh Sahu
 
 In medical research, statistical methods are commonly used to analyze data and draw conclu-
