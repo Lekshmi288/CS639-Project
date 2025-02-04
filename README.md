@@ -74,5 +74,6 @@ Neurology 7, 2008, 812-826.
 [21] Sawa GM, Stephan BC. Alzheimer’s Society Vascular Dementia Systematic Review Group.
 Epidemiological studies of the effect of stroke on incident dementia: a systematic review.
 Stroke, 2010.
+
 [22] Reitz C, Mayeux R. Alzheimer disease: epidemiology, diagnostic criteria, risk factors and
 biomarker. Biochem Pharmacol, 2014, 640–651.
