@@ -70,7 +70,7 @@ World Scientific, 2009. 71–204.
 [20] Kalaria, Raj N., Gladys E. Maestre, Raul Arizaga et al., ”Alzheimer’s disease and vascular
 dementia in developing countries: prevalence, management, and risk factors.” The Lancet
 Neurology 7, 2008, 812-826.
-REFERENCES 17
+
 [21] Sawa GM, Stephan BC. Alzheimer’s Society Vascular Dementia Systematic Review Group.
 Epidemiological studies of the effect of stroke on incident dementia: a systematic review.
 Stroke, 2010.
